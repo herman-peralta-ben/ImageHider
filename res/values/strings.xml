@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">ImageHider</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ImageHider</string>
+    <string name="add_image">Encrypt An Image</string>
+    <string name="encryption_failed">Encryption failed</string>
+    <string name="decrypt_progress_message">Please wait while your image is decrypted</string>
+    <string name="load_error">Load Error</string>
+    <string name="password_hint">Master Password</string>
+    <string name="reenter_password_hint">Confirm Master Password</string>
+    <string name="password_instruction">Please enter your password for this app.</string>
+    <string name="loading">Loading…</string>
+    <string name="confirm_password">Please re-enter your password to encrypt this image. It must match your master password.</string>
+    <string name="incorrect_password">Incorrect password. Start over.</string>
+    <string name="remove_image">Decrypt This Image</string>
+    <string name="encrypt_progress_message">Please wait while your image is encrypted.</string>
+    <string name="decrypt_delete_error">The encrypted file was not deleted, but the decrypted file was still saved.</string>
+    <string name="decrypt_error">There was an error during decryption.</string>
+    <string name="encrypt_delete_error">The original file was not deleted, but the encrypted file was still saved. YOUR PICTURE IS STILL ACCESSIBLE IN UNENCRYPTED FORM.</string>
+    <string name="encrypt_error">There was an error during encryption.</string>
+    <string name="memory_error">The application ran out of memory.</string>
+    <string name="initial_password_instruction">Welcome to ImageHider. Please enter a password to use for this app. Only the first 16 bytes will be used to provide encryption.</string>
+    <string name="retry_password_instruction">That password was incorrect, please retry.</string>
+    <string name="confirm_encrypt">Are you sure you want to encrypt the image %s ?</string>
+    <string name="confirm_decrypt">Are you sure you want to decrypt the image %s ?</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="hashing_error">There was an error in hashing your password</string>
+    <string name="quit">Quit</string>
+
+</resources>
