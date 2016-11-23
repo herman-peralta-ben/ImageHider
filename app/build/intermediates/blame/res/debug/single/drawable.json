@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wait.png",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\drawable\\wait.png"
+    },
+    {
         "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wait.png",
         "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable\\wait.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\drawable\\error.png"
     },
     {
         "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",

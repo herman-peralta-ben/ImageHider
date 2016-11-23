@@ -12,7 +12,23 @@
         "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\add.png",
         "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\quit.png",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\drawable-ldpi\\quit.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\add.png",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\remove.png",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\drawable-ldpi\\remove.png"
     }
 ]

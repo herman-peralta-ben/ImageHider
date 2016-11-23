@@ -15,6 +15,8 @@ import android.content.Intent;
 import android.media.MediaScannerConnection;
 import android.os.Environment;
 import android.os.Handler;
+import android.util.Log;
+
 import com.google.common.collect.ImmutableList;
 
 public class AESManager {
@@ -52,7 +54,7 @@ public class AESManager {
 	}
 	
 	private static boolean createLeadingFoldersHelper(String gen, String path) {
-		String folder = path.substring(0, path.indexOf(File.separator)+1);
+		String folder = path.substring(0, path.indexOf(File.separator) + 1);
 		if (folder.isEmpty())
 			return true;
 		File file = new File(gen + folder);
@@ -75,6 +77,7 @@ public class AESManager {
 	private static ImmutableList<File> listFilesHelper(File root) {
 		ArrayList<File> results = new ArrayList<File>();
 		File[] contents = root.listFiles();
+		if(contents == null) { contents = new File[]{}; }
 		for (File f : contents) {
 			if (f.isDirectory()) {
 				results.addAll(listFilesHelper(f));
@@ -100,7 +103,9 @@ public class AESManager {
 			final String newFilename,
 			final Context context,
 			final EncryptionActionListener listener) {
-		
+
+        Log.i("Herman", "AESManager.encrypt Encriptando imagen");
+
 		final Handler uiHandler = new Handler();
 		final ProgressDialog progressDialog = new ProgressDialog(context);
 		progressDialog.setMessage(context.getString(R.string.encrypt_progress_message));

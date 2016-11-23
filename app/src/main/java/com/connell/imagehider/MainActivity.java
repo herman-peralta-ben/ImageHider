@@ -11,6 +11,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.provider.MediaStore;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -18,6 +19,7 @@ import android.view.View;
 import android.view.Window;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -84,6 +86,8 @@ public class MainActivity extends Activity {
 			mStoredPasswordHash = mPreferences.getString(PASSWORD_HASH_PREF, null);
 			passwordDialog();
 		}
+
+		Toast.makeText(this, "Dar permisos en opciones", Toast.LENGTH_LONG).show();
 	}
 
 	@Override
@@ -173,9 +177,8 @@ public class MainActivity extends Activity {
 		// Open Android's image chooser activity, to allow
 		// the user to choose an image
 		if (item.getItemId() == R.id.add) {
-			Intent i = new Intent(Intent.ACTION_PICK,  
-				     android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
-				startActivityForResult(i, ACTIVITY_SELECT_IMAGE);
+			Intent i = new Intent(Intent.ACTION_PICK, android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+            startActivityForResult(i, ACTIVITY_SELECT_IMAGE);
 			return true;
 		} else if (item.getItemId() == R.id.quit) {
 			finish();
@@ -207,9 +210,12 @@ public class MainActivity extends Activity {
 		        int columnIndex = cursor.getColumnIndex(filePathColumn[0]);
 		        final String filePath = cursor.getString(columnIndex);
 		        cursor.close();
-		        
+
 		        final String newFilePath = AESManager.encryptedFolderString() + filePath;
-		        
+
+                Log.i("Herman", "filePath: " + filePath);
+                Log.i("Herman", "newFilePath: " + newFilePath);
+
 		        AlertDialog.Builder builder = new AlertDialog.Builder(this);
 		        builder.setMessage(String.format(getString(R.string.confirm_encrypt), filePath));
 		        builder.setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {

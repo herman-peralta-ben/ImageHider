@@ -554,5 +554,561 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 54,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 47,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 47,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 91,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2068,
+                        "endColumn": 91,
+                        "endOffset": 2155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 91,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1975,
+                        "endColumn": 91,
+                        "endOffset": 2062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 133,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 133,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 124,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1146,
+                        "endColumn": 124,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 79,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 79,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 94,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 94,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 177,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 177,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 79,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1532,
+                        "endColumn": 79,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 95,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 95,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 63,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 85,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2225,
+                        "endColumn": 85,
+                        "endOffset": 2306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 52,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 68,
+                        "endColumn": 52,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 78,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 78,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 184,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 184,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endColumn": 49,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 49,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 44,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 44,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 75,
+                    "endOffset": 1763
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1613,
+                        "endColumn": 75,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1768,
+                    "endColumn": 50,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 50,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 57,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 57,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1877,
+                    "endColumn": 89,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 89,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endColumn": 37,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2312,
+                        "endColumn": 37,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endColumn": 73,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 73,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 59,
+                    "endOffset": 2134
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 59,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2139,
+                    "endColumn": 97,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1876,
+                        "endColumn": 97,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 62,
+                    "endOffset": 2295
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endColumn": 62,
+                        "endOffset": 2219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2300,
+                    "endColumn": 58,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 58,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endColumn": 57,
+                    "endOffset": 2412
+                },
+                "from": {
+                    "file": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
     }
 ]

@@ -4,7 +4,15 @@
         "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\menu\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\image_activity.xml",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\menu\\image_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\image_activity.xml",
         "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\menu\\image_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\hovait\\AndroidStudioProjects\\ImageHider\\app\\src\\main\\res\\menu\\activity_main.xml"
     }
 ]
