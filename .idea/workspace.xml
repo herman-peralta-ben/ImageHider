@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8cafae-dd63-4953-86ab-b910f8e9c9ba" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\hovait\AndroidStudioProjects\ImageHider\docs\JavaAESCryptoSample.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hovait\AndroidStudioProjects\ImageHider\samples\JavaAESCryptoSample.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ImageHider.iws" />
@@ -1656,7 +1656,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="374" />
+    <option name="x" value="457" />
+    <option name="y" value="25" />
     <option name="width" value="1370" />
     <option name="height" value="723" />
   </component>
@@ -1724,6 +1725,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageHider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageHider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -1738,6 +1753,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hovait\AndroidStudioProjects\ImageHider\samples" />
       <recent name="C:\Users\hovait\AndroidStudioProjects\ImageHider\sample" />
       <recent name="C:\Users\hovait\AndroidStudioProjects\ImageHider" />
     </key>
@@ -1919,7 +1935,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="374" y="0" width="1370" height="723" extended-state="0" />
+    <frame x="457" y="25" width="1370" height="723" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
