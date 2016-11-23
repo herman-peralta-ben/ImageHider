@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remove.png",
+        "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-hdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quit.png",
+        "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-hdpi\\quit.png"
+    },
+    {
+        "merged": "C:\\Users\\hovait\\ImageHider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "C:\\Users\\hovait\\ImageHider\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    }
+]
